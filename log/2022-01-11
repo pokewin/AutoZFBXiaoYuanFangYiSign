@@ -25,3 +25,38 @@ COOKIE OK
 
 
 
+2022-01-11 18:44:56.354563
+输入定位签到模式
+单人签到模式
+当前IP：40.69.148.193,
+
+ 美国
+
+系统时间：2022-01-11 18:44:57
+UTC时间：2022-01-11 18:44:57
+北京时间：2022-01-12 02:44:56
+北京时间与系统时间误差：7:59:58.046688
+2022-01-11 18:44:57.953379:T2020208149签到开始
+cookie文件存在
+cookie文件加载成功
+NAME彭金沅
+COOKIE OK
+cookie文件存在
+cookie文件加载成功
+开始签到
+定位 115.160273，25.956659，江西省赣州市赣县区江口镇旱塘村
+{"status":0,"result":{"location":{"lng":115.17186408402148,"lat":25.95956968653024},"formatted_address":"江西省赣州市赣县区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"赣县区","town":"","town_code":"","distance":"","direction":"","adcode":"360704","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E8%B5%A3%E5%8E%BF%E5%8C%BA&street=%E6%B1%9F%E5%8F%A3%E9%95%87%E6%97%B1%E5%A1%98%E6%9D%91&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E8%B5%A3%E5%8E%BF%E5%8C%BA%E6%B1%9F%E5%8F%A3%E9%95%87%E6%97%B1%E5%A1%98%E6%9D%91&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E8%B5%A3%E5%8E%BF%E5%8C%BA&bstreet=%E6%B1%9F%E5%8F%A3%E9%95%87%E6%97%B1%E5%A1%98%E6%9D%91&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E8%B5%A3%E5%8E%BF%E5%8C%BA&lng=115.160239&lat=25.956631&sfby=1
+NAME彭金沅
+定位 115.160239，25.956631，江西省赣州市赣县区江口镇旱塘村
+{"status":0,"result":{"location":{"lng":115.17183545183593,"lat":25.959525238568195},"formatted_address":"江西省赣州市赣县区","business":"","addressComponent":{"country":"中国","country_code":0,"country_code_iso":"CHN","country_code_iso2":"CN","province":"江西省","city":"赣州市","city_level":2,"district":"赣县区","town":"","town_code":"","distance":"","direction":"","adcode":"360704","street":"","street_number":""},"pois":[],"roads":[],"poiRegions":[],"sematic_description":"","cityCode":365}}
+province=%E6%B1%9F%E8%A5%BF%E7%9C%81&city=%E8%B5%A3%E5%B7%9E%E5%B8%82&district=%E8%B5%A3%E5%8E%BF%E5%8C%BA&street=%E6%B1%9F%E5%8F%A3%E9%95%87%E6%97%B1%E5%A1%98%E6%9D%91&xszt=0&jkzk=0&jkzkxq=&sfgl=1&gldd=&mqtw=0&mqtwxq=&zddlwz=%E6%B1%9F%E8%A5%BF%E7%9C%81%E8%B5%A3%E5%B7%9E%E5%B8%82%E8%B5%A3%E5%8E%BF%E5%8C%BA%E6%B1%9F%E5%8F%A3%E9%95%87%E6%97%B1%E5%A1%98%E6%9D%91&sddlwz=&bprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&bcity=%E8%B5%A3%E5%B7%9E%E5%B8%82&bdistrict=%E8%B5%A3%E5%8E%BF%E5%8C%BA&bstreet=%E6%B1%9F%E5%8F%A3%E9%95%87%E6%97%B1%E5%A1%98%E6%9D%91&sprovince=%E6%B1%9F%E8%A5%BF%E7%9C%81&scity=%E8%B5%A3%E5%B7%9E%E5%B8%82&sdistrict=%E8%B5%A3%E5%8E%BF%E5%8C%BA&lng=115.16021&lat=25.956587&sfby=1
+签到成功
+2022-01-11 18:45:54.754727:T2020208149签到结束
+彭金沅T2020208149签到成功！
+2022-01-11 18:45:54.754755程序结束
+######################################################################
+
+
+
+
